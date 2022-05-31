@@ -14,6 +14,7 @@
 ---
 
 ORDERED LIST
+
 1. First item
 2. Second item
 	1. Indented item
@@ -21,22 +22,12 @@ ORDERED LIST
 ---
 
 UNORDERED LIST
+
 - First item
 - Second item
 
 ---
 
-PARAGRAPH
-* This is the first list item
-
----
-
-CODEBLOCK
-	<html>
-		<body>Hello!</body>
-	</html>
-
----
-
 IMAGE
+
 ![Tux, the Linux mascot](/images/tux.avif)
